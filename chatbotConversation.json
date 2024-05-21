@@ -1,5 +1,3 @@
-{
-  "chatbotConversation": [
     {
       "qno": "1",
       "botmsg": "Hi there! How can I help you today?",
@@ -72,5 +70,3 @@
       "botmsg": "Thank you for using our chatbot! If you need further assistance, feel free to ask.",
       "options": []
     }
-  ]
-}
