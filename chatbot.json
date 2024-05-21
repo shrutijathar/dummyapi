@@ -1,74 +1,123 @@
-[  
+[
     {
-      "qno": "1",
-      "botmsg": "Hi there! How can I help you today?",
-      "options": [
-        {
-          "text": "I want to learn more about your products",
-          "nextq": "2"
-        },
-        { "text": "I have a question about my order", "nextq": "8" }
-      ]
+        "qno": "1",
+        "botmsg": "Hi there! How can I help you today?",
+        "options": [
+            {
+                "text": "I want to learn more about your products",
+                "nextq": "2"
+            },
+            {
+                "text": "I have a question about my order",
+                "nextq": "8"
+            }
+        ]
     },
     {
-      "qno": "2",
-      "botmsg": "Sure thing! What specific product are you interested in?",
-      "options": [
-        { "text": "Smartphones", "nextq": "3" },
-        { "text": "Laptops", "nextq": "3" },
-        { "text": "Accessories", "nextq": "3" }
-      ]
+        "qno": "2",
+        "botmsg": "Sure thing! What specific product are you interested in?",
+        "options": [
+            {
+                "text": "Smartphones",
+                "nextq": "3"
+            },
+            {
+                "text": "Laptops",
+                "nextq": "3"
+            },
+            {
+                "text": "Accessories",
+                "nextq": "3"
+            }
+        ]
     },
     {
-      "qno": "3",
-      "botmsg": "Great choice! Which brand are you interested in?",
-      "options": [
-        { "text": "Apple", "nextq": "4" },
-        { "text": "Samsung", "nextq": "5" },
-        { "text": "Dell", "nextq": "6" }
-      ]
+        "qno": "3",
+        "botmsg": "Great choice! Which brand are you interested in?",
+        "options": [
+            {
+                "text": "Apple",
+                "nextq": "4"
+            },
+            {
+                "text": "Samsung",
+                "nextq": "5"
+            },
+            {
+                "text": "Dell",
+                "nextq": "6"
+            }
+        ]
     },
     {
-      "qno": "4",
-      "botmsg": "Excellent! What specific model are you looking for?",
-      "options": [
-        { "text": "iPhone 12", "nextq": "7" },
-        { "text": "iPhone 11", "nextq": "7" },
-        { "text": "iPhone 10", "nextq": "7" }
-      ]
+        "qno": "4",
+        "botmsg": "Excellent! What specific model are you looking for?",
+        "options": [
+            {
+                "text": "iPhone 12",
+                "nextq": "7"
+            },
+            {
+                "text": "iPhone 11",
+                "nextq": "7"
+            },
+            {
+                "text": "iPhone 10",
+                "nextq": "7"
+            }
+        ]
     },
     {
-      "qno": "5",
-      "botmsg": "Excellent! What specific model are you looking for?",
-      "options": [{ "text": "Galaxy S21", "nextq": "7" }]
+        "qno": "5",
+        "botmsg": "Excellent! What specific model are you looking for?",
+        "options": [
+            {
+                "text": "Galaxy S21",
+                "nextq": "7"
+            }
+        ]
     },
     {
-      "qno": "6",
-      "botmsg": "Excellent! What specific model are you looking for?",
-      "options": [{ "text": "XPS 13", "nextq": "7" }]
+        "qno": "6",
+        "botmsg": "Excellent! What specific model are you looking for?",
+        "options": [
+            {
+                "text": "XPS 13",
+                "nextq": "7"
+            }
+        ]
     },
     {
-      "qno": "7",
-      "botmsg": "Thank you for your enquiry, our team will reach you soon.",
-      "options": []
+        "qno": "7",
+        "botmsg": "Thank you for your enquiry, our team will reach you soon.",
+        "options": []
     },
     {
-      "qno": "8",
-      "botmsg": "Got it! How can I assist you with your order?",
-      "options": [
-        { "text": "Check order status", "nextq": "9" },
-        { "text": "Modify order", "nextq": "9" },
-        { "text": "Cancel order", "nextq": "9" }
-      ]
+        "qno": "8",
+        "botmsg": "Got it! How can I assist you with your order?",
+        "options": [
+            {
+                "text": "Check order status",
+                "nextq": "9"
+            },
+            {
+                "text": "Modify order",
+                "nextq": "9"
+            },
+            {
+                "text": "Cancel order",
+                "nextq": "9"
+            }
+        ]
     },
     {
-      "qno": "9",
-      "botmsg": "Please provide your order number for assistance.",
-      "options": []
+        "qno": "9",
+        "botmsg": "Please provide your order number for assistance.",
+        "options": []
     },
     {
-      "qno": "10",
-      "botmsg": "Thank you for using our chatbot! If you need further assistance, feel free to ask.",
-      "options": []
+        "qno": "10",
+        "botmsg": "Thank you for using our chatbot! If you need further assistance, feel free to ask.",
+        "options": []
     }
 ]
