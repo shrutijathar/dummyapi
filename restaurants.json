@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "The Gourmet Kitchen",
+        "description": "A modern fusion restaurant offering a mix of international cuisines with a gourmet twist.",
+        "location": "123 Elm Street, Springfield",
+        "contactNumber": "+1-555-1234",
+        "cuisineType": "Fusion"
+    },
+    {
+        "id": 2,
+        "name": "Bella Italia",
+        "description": "Authentic Italian cuisine with traditional recipes and fresh ingredients.",
+        "location": "456 Oak Avenue, Springfield",
+        "contactNumber": "+1-555-5678",
+        "cuisineType": "Italian"
+    },
+    {
+        "id": 3,
+        "name": "Sushi Haven",
+        "description": "Fresh sushi and sashimi with a wide variety of rolls and Japanese delicacies.",
+        "location": "789 Maple Drive, Springfield",
+        "contactNumber": "+1-555-9101",
+        "cuisineType": "Japanese"
+    },
+    {
+        "id": 4,
+        "name": "Taco Fiesta",
+        "description": "A vibrant eatery specializing in delicious tacos, burritos, and nachos.",
+        "location": "101 Pine Street, Springfield",
+        "contactNumber": "+1-555-1122",
+        "cuisineType": "Mexican"
+    },
+    {
+        "id": 5,
+        "name": "Café Parisien",
+        "description": "Elegant café offering a selection of French pastries, coffee, and light meals.",
+        "location": "202 Birch Road, Springfield",
+        "contactNumber": "+1-555-3344",
+        "cuisineType": "French"
+    },
+    {
+        "id": 6,
+        "name": "Spice Symphony",
+        "description": "A place for aromatic Indian curries, biryanis, and street food.",
+        "location": "303 Cedar Lane, Springfield",
+        "contactNumber": "+1-555-5566",
+        "cuisineType": "Indian"
+    },
+    {
+        "id": 7,
+        "name": "Seafood Delight",
+        "description": "Specializing in fresh seafood dishes, from grilled fish to shellfish.",
+        "location": "404 Elm Street, Springfield",
+        "contactNumber": "+1-555-7788",
+        "cuisineType": "Seafood"
+    },
+    {
+        "id": 8,
+        "name": "Burger Haven",
+        "description": "Classic American burgers with a range of gourmet toppings and sides.",
+        "location": "505 Oak Avenue, Springfield",
+        "contactNumber": "+1-555-9900",
+        "cuisineType": "American"
+    },
+    {
+        "id": 9,
+        "name": "Vegan Vibes",
+        "description": "Plant-based dishes with creative and flavorful options for vegans and vegetarians.",
+        "location": "606 Maple Drive, Springfield",
+        "contactNumber": "+1-555-2233",
+        "cuisineType": "Vegan"
+    },
+    {
+        "id": 10,
+        "name": "The Mediterranean Table",
+        "description": "A diverse menu featuring Mediterranean classics such as hummus, kebabs, and falafel.",
+        "location": "707 Pine Street, Springfield",
+        "contactNumber": "+1-555-4455",
+        "cuisineType": "Mediterranean"
+    },
+    {
+        "id": 11,
+        "name": "BBQ Junction",
+        "description": "Savory barbecue dishes including ribs, brisket, and pulled pork.",
+        "location": "808 Birch Road, Springfield",
+        "contactNumber": "+1-555-6677",
+        "cuisineType": "Barbecue"
+    },
+    {
+        "id": 12,
+        "name": "Dim Sum Delights",
+        "description": "Traditional dim sum served with a variety of fillings and dipping sauces.",
+        "location": "909 Cedar Lane, Springfield",
+        "contactNumber": "+1-555-8899",
+        "cuisineType": "Chinese"
+    }
+]
